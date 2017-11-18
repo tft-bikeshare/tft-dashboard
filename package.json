@@ -1,0 +1,22 @@
+{
+  "name": "tft-dashboard",
+  "version": "1.0.0",
+  "description": "dashboard for the tft bikesharing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tft-bikeshare/tft-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tft-bikeshare/tft-dashboard/issues"
+  },
+  "homepage": "https://github.com/tft-bikeshare/tft-dashboard#readme",
+  "dependencies": {
+    "parse-dashboard": "^1.1.2"
+  }
+}

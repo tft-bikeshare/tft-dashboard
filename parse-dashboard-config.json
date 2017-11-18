@@ -1,0 +1,15 @@
+{
+    "apps": [{
+      "serverURL": "http://tft-api.herokuapp.com/parse",
+      "appId": "tft-api",
+      "masterKey": "Do4oGD4LHAMpQz0qgIPD4hf9YhOJBae5",
+      "appName": "tft-api",
+      "production": true
+    }],
+
+    "users": [
+     {
+  	    "user" : "hello",
+  	    "pass" : "hello"
+     }]
+}
